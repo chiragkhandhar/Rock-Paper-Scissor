@@ -12,6 +12,7 @@ three of their moves. For example, an example set of moves might be:
 - Move 2: Rock - 60 Strength Points
 - Move 3: Paper - 9 Strength Points
 
+
 The strength for each move must be at least 1.
 
 After each player's moves are chosen, they will compare moves in the order they were selected. If two moves have different types (for example, Rock vs Scissors), then normal RPS rules will apply (in this case, Rock beats Scissors).
