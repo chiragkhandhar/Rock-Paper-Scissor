@@ -7,7 +7,7 @@
   <a style="text-decoration:none">
     <img src="https://img.shields.io/badge/Platform-JavaScript-brightgreen" alt="Platform" />
   </a>
-   <a style="text-decoration:none" href="https://chiragkhandhar.github.io/Rock-Paper-Scissor-x99/" target="_blank">
+   <a style="text-decoration:none" href="https://chiragkhandhar.github.io/Rock-Paper-Scissor" target="_blank">
     <img src="https://img.shields.io/badge/Play-Game-red" alt="Platform" />
   </a>
 </p>
